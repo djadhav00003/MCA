@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\Dipankar\National_Importance\bin\Debug\net8.0\National_Importance.exe
+C:\Users\Student\Desktop\Dipankar\National_Importance\bin\Debug\net8.0\National_Importance.deps.json
+C:\Users\Student\Desktop\Dipankar\National_Importance\bin\Debug\net8.0\National_Importance.runtimeconfig.json
+C:\Users\Student\Desktop\Dipankar\National_Importance\bin\Debug\net8.0\National_Importance.dll
+C:\Users\Student\Desktop\Dipankar\National_Importance\bin\Debug\net8.0\National_Importance.pdb
+C:\Users\Student\Desktop\Dipankar\National_Importance\obj\Debug\net8.0\National_Importance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Dipankar\National_Importance\obj\Debug\net8.0\National_Importance.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Dipankar\National_Importance\obj\Debug\net8.0\National_Importance.AssemblyInfo.cs
+C:\Users\Student\Desktop\Dipankar\National_Importance\obj\Debug\net8.0\National_Importance.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Dipankar\National_Importance\obj\Debug\net8.0\National_Importance.dll
+C:\Users\Student\Desktop\Dipankar\National_Importance\obj\Debug\net8.0\refint\National_Importance.dll
+C:\Users\Student\Desktop\Dipankar\National_Importance\obj\Debug\net8.0\National_Importance.pdb
+C:\Users\Student\Desktop\Dipankar\National_Importance\obj\Debug\net8.0\National_Importance.genruntimeconfig.cache
+C:\Users\Student\Desktop\Dipankar\National_Importance\obj\Debug\net8.0\ref\National_Importance.dll
